@@ -1,0 +1,16 @@
+.bottomleft-box {
+    margin-top: 1rem;
+}
+.bottomleft-box .ReactTable {
+    padding: 0.5rem 1rem 1rem 1rem;
+    border: none;
+}
+.main-title {
+    text-align: center;
+    padding: 0.7rem 1rem;
+    display: flex;
+    justify-content: space-between;
+    border-top-left-radius: 0.4rem;
+    border-top-right-radius: 0.4rem;
+    border-bottom: 1px solid #ccc;
+}
